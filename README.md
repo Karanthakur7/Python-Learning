@@ -1,6 +1,6 @@
-# Python-Learning
+# Python-Learning:
 
-I've stored all the practice codes from my Python learning journey here.
+I Have stored all the practice codes from my Python learning journey here.
 
 # Repository Contents:
 1. input, variable, operators: Files for basic Python concepts and data types.

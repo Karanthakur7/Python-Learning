@@ -2,6 +2,7 @@
 print("heloo world")
 print("hello guys")
 print("hello chatgpt")
+print("Hello laptop")
 
 
 #same line 

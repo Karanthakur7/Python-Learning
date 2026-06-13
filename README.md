@@ -1,6 +1,6 @@
-# Python-Learning:-
+## Python-Learning:-
 
-I Have stored all the practice codes from my Python learning journey here.
+I Have stored all the practice codes from my Python learning journey here. i am karan thakur i am from kolkata Appring in Brainware university 
 
 # Repository Contents:-
 1. input, variable, operators:- Files for basic Python concepts and data types.

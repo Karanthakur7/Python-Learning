@@ -14,6 +14,7 @@ print(str3)
 # print string add
 str1 = "karan"
 str2 = "Kumar"
+str3 = "Thakur"
 final_str = str1 + str2
 
 print(final_str)  # it will print karanthakur

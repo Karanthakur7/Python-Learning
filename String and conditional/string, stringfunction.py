@@ -1,4 +1,4 @@
-# string is data type that is used a squence of characters. 
+## string is data type that is used a squence of characters. 
 
 
 # string are defined in python by either using single quotes or double quotes.

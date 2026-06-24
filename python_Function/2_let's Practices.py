@@ -1,4 +1,4 @@
-# WAF to find the factorial of n. (n is the parameter).
+# WAF to find the factorial of N (N is the parameter).
 
 def calc_fact(n):
     fact = 1

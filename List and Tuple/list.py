@@ -1,5 +1,5 @@
 #list Example
-marks = [80,30,52,63,85,65,45,20]  # 
+marks = [80,30,52,63,85,65,45,20] 
 print("marks of student:-",marks)
 print(type(marks))
 

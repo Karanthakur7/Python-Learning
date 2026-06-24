@@ -8,7 +8,7 @@ def calc_fact(n):
 calc_fact(5)
 
 
-#WAF to convert USD to INR.
+# WAF to convert USD to INR.
 
 def converter(usd_val):
     inr_val = usd_val * 83

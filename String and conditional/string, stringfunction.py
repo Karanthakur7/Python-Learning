@@ -25,7 +25,7 @@ print(len(final_str))
 
 my_str = "Hello, welcome to karan python code "   # indexing is start from 0 to n-1.
 print(my_str[0])
-print(my_str[1])
+print(my_str[5])
 print(my_str[2])
 print(my_str[3])
 print(my_str[4])

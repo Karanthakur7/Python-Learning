@@ -4,7 +4,7 @@
 # string are defined in python by either using single quotes or double quotes.
 
 str1 = "This is a string"
-str2 = 'this is also a string'
+str2 = 'This is also a string'
 str3 = '''This is a multi line string'''
 
 print(str1)

@@ -1,6 +1,6 @@
 # This function calculates the sum of two numbers
 
-def calc_sum(a,b):  
+def calc_sum(c,b):  
     return a + b    
 sum = calc_sum(5, 10)    # call the function and store the result.
 print("The sum is:", sum) 

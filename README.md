@@ -101,4 +101,4 @@ As I continue to expand my Python knowledge, my upcoming learning goals include:
 
 ## 📬 Connect
 
-Thank you for visiting my repository! Feel free to star ⭐ this repository if you find it helpful. Feedback and suggestions are always welcome as I continue to learn and grow as a developer
+Thank you for visiting my repository! Feel free to star ⭐ this repository if you find it helpful. Feedback and suggestions are always welcome as I continue to learn and grow as a developer.
